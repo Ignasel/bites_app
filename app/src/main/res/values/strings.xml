@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Bitės</string>
+    <string name="app_title">Šiugždančios bitės</string>
+
+    <string name="login_username">Vardas:</string>
+    <string name="login_password">Slaptažodis:</string>
+    <string name="login_login_btn">Prisijungti</string>
+    <string name="login_register_btn">Registruotis</string>
+    <string name="login_invalid_credentials_message">Netinkamas prisijungimas</string>
+    <string name="login_remember_me">Prisiminti mane</string>
+    <string name="login_meniu_title">Prisijungti</string>
+
+    <string name="search_new_entry_button">Naujas įrašas</string>
+
+    <string name="new_entry_pletimas">Plėtimas: </string>
+    <string name="new_entry_pletimas_Reikia">Reikia plėsti</string>
+    <string name="new_entry_pletimas_Nereikia">Plėsti nereikia</string>
+    <string name="new_entry_pletimas_Baigta">Pilnai išplėstas</string>
+    <string name="new_entry_pletimas_Siaurinti">Reikia siaurinti</string>
+    <string name="new_entry_bites_Motinele">Motinėlė: </string>
+    <string name="new_entry_bites_Motinele_nera">Tikrai nėra</string>
+    <string name="new_entry_bites_Motinele_gal_nera">Lyg ir nėra</string>
+    <string name="new_entry_bites_Motinele_yra">Yra</string>
+    <string name="new_entry_komentaras">Komentaras: </string>
+    <string name="new_entry_bites_seima">Šeimos nr: </string>
+    <string-array name="new_entry_seimos_nr">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+    </string-array>
+    <string name="new_entry_payment_cash">Cash</string>
+    <string name="new_entry_payment_card">Card</string>
+    <string name="new_entry_payment_moq">moQ</string>
+    <string name="new_entry_payment_bitcoin">bitCoin</string>
+    <string name="new_entry_insert">Sukurti</string>
+    <string name="new_entry_bites_medus">Medus: </string>
+    <string name="new_entry_bites_medus_nera">Paliekam kaip yra</string>
+    <string name="new_entry_bites_medus_yra">Už savaitės reik sukti</string>
+    <string name="new_entry_bites_medus_yra_daug">Reikia sukti!</string>
+    <string name="new_entry_bites_medus_pleciam">Reikia daugiau meduvių</string>
+    <string name="new_entry_bites_medus_deti_meduve">Laikas dėti pirmą meduvę</string>
+    <string name="new_entry_database_info">Please wait- sending to db</string>
+    <string name="new_entry_update">Redaguoti</string>
+    <string name="new_entry_delete">Ištrinti</string>
+    <string name="new_entry_meniu_title">Naujas įrašas</string>
+    <string name="existing_entry_meniu_title">Senesnis įrašas</string>
+    <string name="register_name">Vardas</string>
+    <string name="register_email">El. Paštas:</string>
+    <string name="register_password">Slaptažodis:</string>
+    <string name="register_register_btn">Registruotis:</string>
+    <string name="register_invalid_email_message">Neteisingai įvestas email</string>
+</resources>

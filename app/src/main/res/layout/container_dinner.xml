@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/new_entry_bites_seima"
+        android:textColor="@color/colorAccent"
+        android:id="@+id/textSeimosNr"
+        android:layout_marginLeft="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/new_entry_pletimas"
+        android:id="@+id/textPletimasType"
+        android:textColor="@color/colorWhite"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        />
+
+    <TextView
+        android:id="@+id/textMedus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:text="@string/new_entry_bites_medus"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_below="@id/textMedus"
+        android:textColor="@color/colorText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/new_entry_bites_Motinele"
+        android:id="@+id/textMotinele"
+        android:layout_marginLeft="5dp"
+        android:layout_below="@id/textMotinele"
+        android:textColor="@color/colorText"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/new_entry_komentaras"
+        android:id="@+id/textKomentaras"
+        android:layout_marginLeft="5dp"
+        android:layout_below="@id/textKomentaras"
+        android:textColor="@color/colorText"/>
+
+</RelativeLayout>
